@@ -1,4 +1,4 @@
-Project Adoption 2022
+homeProject Adoption 2022
 -----------------------------------------
 After 6+ years of developing zmNinja + ES + ML, [Pliable Pixels](https://github.com/pliablepixels) no longer had the time to maintain the project. ZoneMinder
 development team will take on the support of zmNinja and provision of notification services going forward. This may necessitate
